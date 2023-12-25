@@ -1,6 +1,4 @@
-/*18. Multi-level Menu using Switch Case: Write a program to create a multi-level menu using
-switch cases that perform various basic mathematical operations (Add, Subtract, Divide,
-Multiply, Exponent).*/
+
 #include<stdio.h>
 int main()
 {
