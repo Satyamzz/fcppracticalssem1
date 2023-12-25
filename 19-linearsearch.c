@@ -1,4 +1,3 @@
-//19. Linear Search in Array: Write a program to implement linear search in a 1-D array.
 #include <stdio.h>
 int main() 
 {
