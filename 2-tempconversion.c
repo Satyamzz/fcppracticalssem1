@@ -1,6 +1,5 @@
-2. Temperature Conversion: Write a program that uses two functions to convert temperature from Celsius to Fahrenheit and vice versa, respectively and return the converted values. 
-#include <stdio.h>
 
+#include<stdio.h>
 float cel_to_fah(float cel) {
     return (cel * 9 / 5) + 32;
 }
