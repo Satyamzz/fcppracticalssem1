@@ -1,5 +1,4 @@
    #include <stdio.h>
-
 void WithVariable(int a, int b) {
     int temp = a;
     a = b;
@@ -13,7 +12,6 @@ void WithoutVariable(int a, int b) {
     a = a - b;
     printf("After swapping without using a third variable:\nnum1 = %d, num2 = %d\n", a, b);
 }
-
 int main() {
     int num1, num2;
     printf("Enter two numbers: ");
