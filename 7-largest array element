@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main() {
-    int arr[] = {10, 5, 25, 8, 30, 15};
+    int arr[] = {1,2,3,4,5,6};
     int array_size = sizeof(arr) / sizeof(arr[0]);
 
     if (array_size == 0) {
