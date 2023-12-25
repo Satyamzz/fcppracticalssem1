@@ -1,5 +1,4 @@
-/*22. Recursive Function for Factorial: Write a program to calculate the factorial of a number
-using recursion.*/
+
 #include<stdio.h>
 int fact(int x);
 int main()
